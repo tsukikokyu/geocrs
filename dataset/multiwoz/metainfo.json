@@ -1,0 +1,1112 @@
+{
+    "0": {
+        "domain": 2,
+        "rating": 4.0,
+        "price": 70.0
+    },
+    "1": {
+        "domain": 0,
+        "rating": -1,
+        "price": -1
+    },
+    "2": {
+        "domain": 2,
+        "rating": 4.0,
+        "price": 76.66666666666667
+    },
+    "3": {
+        "domain": 0,
+        "rating": -1,
+        "price": -1
+    },
+    "4": {
+        "domain": 2,
+        "rating": 4.0,
+        "price": 45.0
+    },
+    "5": {
+        "domain": 1,
+        "rating": -1,
+        "price": 1
+    },
+    "6": {
+        "domain": 0,
+        "rating": -1,
+        "price": 0
+    },
+    "7": {
+        "domain": 2,
+        "rating": 4.0,
+        "price": 61.666666666666664
+    },
+    "8": {
+        "domain": 2,
+        "rating": 3.0,
+        "price": 62.5
+    },
+    "9": {
+        "domain": 1,
+        "rating": -1,
+        "price": 1
+    },
+    "10": {
+        "domain": 2,
+        "rating": 4.0,
+        "price": 75.0
+    },
+    "11": {
+        "domain": 2,
+        "rating": 4.0,
+        "price": 55.0
+    },
+    "12": {
+        "domain": 2,
+        "rating": 2.0,
+        "price": 80.0
+    },
+    "13": {
+        "domain": 1,
+        "rating": -1,
+        "price": 0
+    },
+    "14": {
+        "domain": 2,
+        "rating": 4.0,
+        "price": 63.333333333333336
+    },
+    "15": {
+        "domain": 2,
+        "rating": 4.0,
+        "price": 55.0
+    },
+    "16": {
+        "domain": 2,
+        "rating": 4.0,
+        "price": 78.33333333333333
+    },
+    "17": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "18": {
+        "domain": 0,
+        "rating": -1,
+        "price": 5.0
+    },
+    "19": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "20": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "21": {
+        "domain": 1,
+        "rating": -1,
+        "price": 1
+    },
+    "22": {
+        "domain": 2,
+        "rating": 3.0,
+        "price": 71.66666666666667
+    },
+    "23": {
+        "domain": 0,
+        "rating": -1,
+        "price": 0
+    },
+    "24": {
+        "domain": 0,
+        "rating": -1,
+        "price": 0
+    },
+    "25": {
+        "domain": 0,
+        "rating": -1,
+        "price": 0
+    },
+    "26": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "27": {
+        "domain": 0,
+        "rating": -1,
+        "price": -1
+    },
+    "28": {
+        "domain": 0,
+        "rating": -1,
+        "price": 3.5
+    },
+    "29": {
+        "domain": 0,
+        "rating": -1,
+        "price": -1
+    },
+    "30": {
+        "domain": 0,
+        "rating": -1,
+        "price": 0
+    },
+    "31": {
+        "domain": 0,
+        "rating": -1,
+        "price": 0
+    },
+    "32": {
+        "domain": 0,
+        "rating": -1,
+        "price": 0
+    },
+    "33": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "34": {
+        "domain": 0,
+        "rating": -1,
+        "price": 5.0
+    },
+    "35": {
+        "domain": 0,
+        "rating": -1,
+        "price": 4.0
+    },
+    "36": {
+        "domain": 2,
+        "rating": 4.0,
+        "price": 73.33333333333333
+    },
+    "37": {
+        "domain": 0,
+        "rating": -1,
+        "price": 0
+    },
+    "38": {
+        "domain": 1,
+        "rating": -1,
+        "price": 0
+    },
+    "39": {
+        "domain": 0,
+        "rating": -1,
+        "price": -1
+    },
+    "40": {
+        "domain": 0,
+        "rating": -1,
+        "price": 0
+    },
+    "41": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "42": {
+        "domain": 0,
+        "rating": -1,
+        "price": 0
+    },
+    "43": {
+        "domain": 0,
+        "rating": -1,
+        "price": 0
+    },
+    "44": {
+        "domain": 0,
+        "rating": -1,
+        "price": -1
+    },
+    "45": {
+        "domain": 2,
+        "rating": 0.0,
+        "price": 40.0
+    },
+    "46": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "47": {
+        "domain": 2,
+        "rating": 0.0,
+        "price": 63.666666666666664
+    },
+    "48": {
+        "domain": 0,
+        "rating": -1,
+        "price": 2.5
+    },
+    "49": {
+        "domain": 0,
+        "rating": -1,
+        "price": 0
+    },
+    "50": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "51": {
+        "domain": 0,
+        "rating": -1,
+        "price": 5.0
+    },
+    "52": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "53": {
+        "domain": 0,
+        "rating": -1,
+        "price": 2.0
+    },
+    "54": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "55": {
+        "domain": 1,
+        "rating": -1,
+        "price": 1
+    },
+    "56": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "57": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "58": {
+        "domain": 1,
+        "rating": -1,
+        "price": 1
+    },
+    "59": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "60": {
+        "domain": 1,
+        "rating": -1,
+        "price": 0
+    },
+    "61": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "62": {
+        "domain": 1,
+        "rating": -1,
+        "price": 1
+    },
+    "63": {
+        "domain": 1,
+        "rating": -1,
+        "price": 0
+    },
+    "64": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "65": {
+        "domain": 0,
+        "rating": -1,
+        "price": 0
+    },
+    "66": {
+        "domain": 1,
+        "rating": -1,
+        "price": 1
+    },
+    "67": {
+        "domain": 2,
+        "rating": 0.0,
+        "price": 54.0
+    },
+    "68": {
+        "domain": 0,
+        "rating": -1,
+        "price": 0
+    },
+    "69": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "70": {
+        "domain": 2,
+        "rating": 2.0,
+        "price": 90.0
+    },
+    "71": {
+        "domain": 2,
+        "rating": 4.0,
+        "price": 50.0
+    },
+    "72": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "73": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "74": {
+        "domain": 0,
+        "rating": -1,
+        "price": -1
+    },
+    "75": {
+        "domain": 1,
+        "rating": -1,
+        "price": 1
+    },
+    "76": {
+        "domain": 0,
+        "rating": -1,
+        "price": 0
+    },
+    "77": {
+        "domain": 1,
+        "rating": -1,
+        "price": 0
+    },
+    "78": {
+        "domain": 1,
+        "rating": -1,
+        "price": 1
+    },
+    "79": {
+        "domain": 0,
+        "rating": -1,
+        "price": 0
+    },
+    "80": {
+        "domain": 2,
+        "rating": 3.0,
+        "price": 97.66666666666667
+    },
+    "81": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "82": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "83": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "84": {
+        "domain": 0,
+        "rating": -1,
+        "price": 2.0
+    },
+    "85": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "86": {
+        "domain": 2,
+        "rating": 3.0,
+        "price": 69.33333333333333
+    },
+    "87": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "88": {
+        "domain": 2,
+        "rating": 3.0,
+        "price": 81.33333333333333
+    },
+    "89": {
+        "domain": 0,
+        "rating": -1,
+        "price": 0
+    },
+    "90": {
+        "domain": 2,
+        "rating": 4.0,
+        "price": 76.66666666666667
+    },
+    "91": {
+        "domain": 1,
+        "rating": -1,
+        "price": 1
+    },
+    "92": {
+        "domain": 0,
+        "rating": -1,
+        "price": 0
+    },
+    "93": {
+        "domain": 2,
+        "rating": 4.0,
+        "price": 138.33333333333334
+    },
+    "94": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "95": {
+        "domain": 1,
+        "rating": -1,
+        "price": 0
+    },
+    "96": {
+        "domain": 0,
+        "rating": -1,
+        "price": 0
+    },
+    "97": {
+        "domain": 0,
+        "rating": -1,
+        "price": -1
+    },
+    "98": {
+        "domain": 1,
+        "rating": -1,
+        "price": 1
+    },
+    "99": {
+        "domain": 0,
+        "rating": -1,
+        "price": 5.0
+    },
+    "100": {
+        "domain": 0,
+        "rating": -1,
+        "price": 0
+    },
+    "101": {
+        "domain": 0,
+        "rating": -1,
+        "price": 0
+    },
+    "102": {
+        "domain": 0,
+        "rating": -1,
+        "price": -1
+    },
+    "103": {
+        "domain": 2,
+        "rating": 4.0,
+        "price": 85.0
+    },
+    "104": {
+        "domain": 1,
+        "rating": -1,
+        "price": 0
+    },
+    "105": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "106": {
+        "domain": 1,
+        "rating": -1,
+        "price": 0
+    },
+    "107": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "108": {
+        "domain": 1,
+        "rating": -1,
+        "price": 0
+    },
+    "109": {
+        "domain": 1,
+        "rating": -1,
+        "price": 1
+    },
+    "110": {
+        "domain": 1,
+        "rating": -1,
+        "price": 1
+    },
+    "111": {
+        "domain": 2,
+        "rating": 4.0,
+        "price": 63.333333333333336
+    },
+    "112": {
+        "domain": 2,
+        "rating": 4.0,
+        "price": 57.5
+    },
+    "113": {
+        "domain": 0,
+        "rating": -1,
+        "price": 0
+    },
+    "114": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "115": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "116": {
+        "domain": 2,
+        "rating": 2.0,
+        "price": 61.666666666666664
+    },
+    "117": {
+        "domain": 0,
+        "rating": -1,
+        "price": 0
+    },
+    "118": {
+        "domain": 0,
+        "rating": -1,
+        "price": 0
+    },
+    "119": {
+        "domain": 1,
+        "rating": -1,
+        "price": 0
+    },
+    "120": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "121": {
+        "domain": 1,
+        "rating": -1,
+        "price": 1
+    },
+    "122": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "123": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "124": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "125": {
+        "domain": 0,
+        "rating": -1,
+        "price": 0
+    },
+    "126": {
+        "domain": 0,
+        "rating": -1,
+        "price": -1
+    },
+    "127": {
+        "domain": 0,
+        "rating": -1,
+        "price": 0
+    },
+    "128": {
+        "domain": 0,
+        "rating": -1,
+        "price": 0
+    },
+    "129": {
+        "domain": 1,
+        "rating": -1,
+        "price": 0
+    },
+    "130": {
+        "domain": 1,
+        "rating": -1,
+        "price": 0
+    },
+    "131": {
+        "domain": 0,
+        "rating": -1,
+        "price": -1
+    },
+    "132": {
+        "domain": 0,
+        "rating": -1,
+        "price": 0
+    },
+    "133": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "134": {
+        "domain": 0,
+        "rating": -1,
+        "price": -1
+    },
+    "135": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "136": {
+        "domain": 0,
+        "rating": -1,
+        "price": 0
+    },
+    "137": {
+        "domain": 0,
+        "rating": -1,
+        "price": 0
+    },
+    "138": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "139": {
+        "domain": 1,
+        "rating": -1,
+        "price": 1
+    },
+    "140": {
+        "domain": 1,
+        "rating": -1,
+        "price": 1
+    },
+    "141": {
+        "domain": 1,
+        "rating": -1,
+        "price": 1
+    },
+    "142": {
+        "domain": 1,
+        "rating": -1,
+        "price": 0
+    },
+    "143": {
+        "domain": 1,
+        "rating": -1,
+        "price": 1
+    },
+    "144": {
+        "domain": 1,
+        "rating": -1,
+        "price": 1
+    },
+    "145": {
+        "domain": 0,
+        "rating": -1,
+        "price": 0
+    },
+    "146": {
+        "domain": 0,
+        "rating": -1,
+        "price": 2.5
+    },
+    "147": {
+        "domain": 1,
+        "rating": -1,
+        "price": 1
+    },
+    "148": {
+        "domain": 0,
+        "rating": -1,
+        "price": 0
+    },
+    "149": {
+        "domain": 1,
+        "rating": -1,
+        "price": 1
+    },
+    "150": {
+        "domain": 1,
+        "rating": -1,
+        "price": 1
+    },
+    "151": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "152": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "153": {
+        "domain": 1,
+        "rating": -1,
+        "price": 0
+    },
+    "154": {
+        "domain": 0,
+        "rating": -1,
+        "price": -1
+    },
+    "155": {
+        "domain": 1,
+        "rating": -1,
+        "price": 1
+    },
+    "156": {
+        "domain": 2,
+        "rating": 4.0,
+        "price": 25.0
+    },
+    "157": {
+        "domain": 1,
+        "rating": -1,
+        "price": 0
+    },
+    "158": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "159": {
+        "domain": 0,
+        "rating": -1,
+        "price": 0
+    },
+    "160": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "161": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "162": {
+        "domain": 0,
+        "rating": -1,
+        "price": 0
+    },
+    "163": {
+        "domain": 0,
+        "rating": -1,
+        "price": 0
+    },
+    "164": {
+        "domain": 0,
+        "rating": -1,
+        "price": 2.5
+    },
+    "165": {
+        "domain": 1,
+        "rating": -1,
+        "price": 1
+    },
+    "166": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "167": {
+        "domain": 0,
+        "rating": -1,
+        "price": 0
+    },
+    "168": {
+        "domain": 0,
+        "rating": -1,
+        "price": -1
+    },
+    "169": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "170": {
+        "domain": 1,
+        "rating": -1,
+        "price": 1
+    },
+    "171": {
+        "domain": 0,
+        "rating": -1,
+        "price": 0
+    },
+    "172": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "173": {
+        "domain": 0,
+        "rating": -1,
+        "price": 0
+    },
+    "174": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "175": {
+        "domain": 0,
+        "rating": -1,
+        "price": 4.0
+    },
+    "176": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "177": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "178": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "179": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "180": {
+        "domain": 0,
+        "rating": -1,
+        "price": -1
+    },
+    "181": {
+        "domain": 1,
+        "rating": -1,
+        "price": 0
+    },
+    "182": {
+        "domain": 2,
+        "rating": 4.0,
+        "price": 60.0
+    },
+    "183": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "184": {
+        "domain": 0,
+        "rating": -1,
+        "price": -1
+    },
+    "185": {
+        "domain": 0,
+        "rating": -1,
+        "price": -1
+    },
+    "186": {
+        "domain": 0,
+        "rating": -1,
+        "price": -1
+    },
+    "187": {
+        "domain": 1,
+        "rating": -1,
+        "price": 1
+    },
+    "188": {
+        "domain": 1,
+        "rating": -1,
+        "price": 1
+    },
+    "189": {
+        "domain": 0,
+        "rating": -1,
+        "price": 5.0
+    },
+    "190": {
+        "domain": 0,
+        "rating": -1,
+        "price": 0
+    },
+    "191": {
+        "domain": 1,
+        "rating": -1,
+        "price": 0
+    },
+    "192": {
+        "domain": 1,
+        "rating": -1,
+        "price": 0
+    },
+    "193": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "194": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "195": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "196": {
+        "domain": 0,
+        "rating": -1,
+        "price": -1
+    },
+    "197": {
+        "domain": 2,
+        "rating": 3.0,
+        "price": 93.33333333333333
+    },
+    "198": {
+        "domain": 1,
+        "rating": -1,
+        "price": 0
+    },
+    "199": {
+        "domain": 0,
+        "rating": -1,
+        "price": -1
+    },
+    "200": {
+        "domain": 1,
+        "rating": -1,
+        "price": 0
+    },
+    "201": {
+        "domain": 1,
+        "rating": -1,
+        "price": 1
+    },
+    "202": {
+        "domain": 1,
+        "rating": -1,
+        "price": 1
+    },
+    "203": {
+        "domain": 0,
+        "rating": -1,
+        "price": -1
+    },
+    "204": {
+        "domain": 1,
+        "rating": -1,
+        "price": 0
+    },
+    "205": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "206": {
+        "domain": 1,
+        "rating": -1,
+        "price": 1
+    },
+    "207": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "208": {
+        "domain": 0,
+        "rating": -1,
+        "price": 1.0
+    },
+    "209": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "210": {
+        "domain": 2,
+        "rating": 4.0,
+        "price": 124.0
+    },
+    "211": {
+        "domain": 0,
+        "rating": -1,
+        "price": -1
+    },
+    "212": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "213": {
+        "domain": 0,
+        "rating": -1,
+        "price": 0
+    },
+    "214": {
+        "domain": 2,
+        "rating": 4.0,
+        "price": 75.0
+    },
+    "215": {
+        "domain": 0,
+        "rating": -1,
+        "price": -1
+    },
+    "216": {
+        "domain": 0,
+        "rating": -1,
+        "price": 0
+    },
+    "217": {
+        "domain": 0,
+        "rating": -1,
+        "price": 0
+    },
+    "218": {
+        "domain": 2,
+        "rating": 4.0,
+        "price": 64.66666666666667
+    },
+    "219": {
+        "domain": 1,
+        "rating": -1,
+        "price": 1
+    },
+    "220": {
+        "domain": 1,
+        "rating": -1,
+        "price": 2
+    },
+    "221": {
+        "domain": 1,
+        "rating": -1,
+        "price": 0
+    }
+}
